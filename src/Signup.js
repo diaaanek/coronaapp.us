@@ -100,7 +100,7 @@ export default () => {
       .then(response => {
         handleServerResponse(
           true,
-          "Thank you, your message has been submitted."
+          "Thank you! You are signed up for our app launch"
         );
       })
       .catch(error => {
@@ -130,7 +130,7 @@ export default () => {
           {!status.submitting
             ? !status.submitted
               ? "Signup"
-              : "Submitted"
+              : "Success!"
             : "Submitting..."}
         </button>
       </form>
