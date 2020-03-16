@@ -10,7 +10,7 @@ const useStyles = makeStyles(theme => ({
     lineHeight: "23px",
     color: "rgb(51, 49, 47)",
     paddingLeft: "32px",
-    fontFamily: "Avenir",
+    fontFamily: "Modern Era",
     paddingRight: "32px",
     background: "rgb(255, 255, 255)",
     borderRadius: "100px",
@@ -23,7 +23,7 @@ const useStyles = makeStyles(theme => ({
   button: {
     width: "124px",
     height: "75px",
-    fontFamily: "Avenir",
+    fontFamily: "Modern Era Bold",
     marginLeft: "10px",
     boxShadow: "rgba(0, 0, 0, 0.04) 0px 4px 18px",
     cursor: "pointer",
@@ -31,9 +31,8 @@ const useStyles = makeStyles(theme => ({
     fontSize: "18px",
     lineHeight: "23px",
     color: "rgb(255, 255, 255)",
-    backgroundImage: "linear-gradient(90deg, #78B5FA 1%, #9586FD 100%)",
-
-    borderRadius: "100px",
+    background: "#287D99",
+    borderRadius: "50px",
     borderWidth: "0px",
     padding: " 26px 24px",
     outline: "none"
