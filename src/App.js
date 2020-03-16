@@ -23,14 +23,14 @@ function App() {
       <div className="middle">
         <div className="grid1">
           <img
-            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584389727/Vertical_Frame_-_Dark_-_Real_Shadow_1.png"
+            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584394298/Vertical_Frame_-_Only_Screen_-_Blue_Shadow.png"
             alt="mockup"
           />
         </div>
 
         <div className="grid2">
           <img
-            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584390177/Group_28.png"
+            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584394201/Group_28_1.png"
             alt="logo"
             className="logo"
           />
