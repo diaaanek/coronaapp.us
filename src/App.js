@@ -23,7 +23,7 @@ function App() {
       <div className="middle">
         <div className="grid1">
           <img
-            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584394298/Vertical_Frame_-_Only_Screen_-_Blue_Shadow.png"
+            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584911395/ronaframe.png"
             alt="mockup"
           />
         </div>
