@@ -36,7 +36,8 @@ function App() {
           />
           <br />
           <p className="subtext">
-            Learn, Stay Informed, Be Unified, and Amused during this time.
+            Get a live feed of what people are saying AND doing around you
+            during this crisis. Completely anonymous.
           </p>
 
           <Signup />
