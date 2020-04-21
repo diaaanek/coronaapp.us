@@ -3,7 +3,7 @@ import "./App.css";
 
 import { makeStyles, Hidden } from "@material-ui/core/";
 import Signup from "./Signup";
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   subtext: {
     fontSize: "24px",
     lineHeight: "36px",
@@ -12,8 +12,8 @@ const useStyles = makeStyles(theme => ({
     maxWidth: "350px",
     marginTop: "30px",
     marginBottom: "28px",
-    textAlign: "left"
-  }
+    textAlign: "left",
+  },
 }));
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
       <div className="middle">
         <div className="grid1">
           <img
-            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1584911395/ronaframe.png"
+            src="https://res.cloudinary.com/dxrvvjvpf/image/upload/v1587486696/rona1.png"
             alt="mockup"
           />
         </div>
