@@ -4,14 +4,14 @@ import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles((theme) => ({
   emailContainer: {
     width: "150px",
-    height: "55px",
+    height: "50px",
     boxShadow: "rgba(0, 0, 0, 0.04) 0px 4px 18px",
-    fontSize: "19px",
+    fontSize: "18px",
     border: "1px solid #E3E1E1",
-    lineHeight: "23px",
+
     color: "rgb(51, 49, 47)",
     paddingLeft: "32px",
-    fontFamily: "Modern Era",
+    fontFamily: "Graphik",
     paddingRight: "32px",
     background: "rgb(255, 255, 255)",
     borderRadius: "100px",
