@@ -2,6 +2,8 @@ import React from "react";
 import "./App.css";
 import Signup from "./Signup";
 import iphone from "./iphone.png";
+import iphone2 from "./iphone2.png";
+import iphone3 from "./iphone3.png";
 import icon from "./icon.png";
 // import { makeStyles, Hidden } from "@material-ui/core/";
 
@@ -44,7 +46,12 @@ function App() {
           </div>
           <div class="responsive iphone">
             <div class="iphone-screenshot"></div>
-            <img class="iphone-mask" alt="rona" src={iphone} />
+            <div class="fadein">
+              <img id="f1" class="iphone-mask" alt="rona" src={iphone} />
+
+              <img id="f2" class="iphone-mask" alt="rona" src={iphone2} />
+              <img id="f3" class="iphone-mask" alt="rona" src={iphone3} />
+            </div>
           </div>
         </header>
         <footer class="container footer">
